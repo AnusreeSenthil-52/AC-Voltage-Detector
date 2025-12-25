@@ -1,7 +1,5 @@
 # Non-Contact AC Voltage Detector
 
-## 📌 Project Overview
-
 The **AC Voltage Detector** is a non-contact device designed to detect the presence of **AC voltage** in electrical wires and systems without physical contact.
 It enhances **electrical safety** by alerting users through a **visual (LED)** and **audible (buzzer)** indication whenever AC voltage is detected.
 This project is based on the principle of **electromagnetic induction**, where an alternating electric field around live wires is sensed and amplified using transistor-based circuitry.
