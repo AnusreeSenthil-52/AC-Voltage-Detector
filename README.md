@@ -59,4 +59,3 @@ This project is based on the principle of **electromagnetic induction**, where a
 * Industrial electrical safety
 * Testing and troubleshooting live circuits
 
-Just tell me 👍
