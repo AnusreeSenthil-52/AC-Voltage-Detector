@@ -1,4 +1,4 @@
-# ⚡ AC Voltage Detector (Non-Contact)
+# Non-Contact AC Voltage Detector
 
 ## 📌 Project Overview
 
